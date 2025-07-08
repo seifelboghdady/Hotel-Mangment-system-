@@ -1,0 +1,8 @@
+D:\Users\METRA\source\repos\Hotel Mangment system\Hotel Mangment system\bin\Debug\Hotel Mangment system.exe.config
+D:\Users\METRA\source\repos\Hotel Mangment system\Hotel Mangment system\bin\Debug\Hotel Mangment system.exe
+D:\Users\METRA\source\repos\Hotel Mangment system\Hotel Mangment system\bin\Debug\Hotel Mangment system.pdb
+D:\Users\METRA\source\repos\Hotel Mangment system\Hotel Mangment system\obj\Debug\Hotel Mangment system.csproj.AssemblyReference.cache
+D:\Users\METRA\source\repos\Hotel Mangment system\Hotel Mangment system\obj\Debug\Hotel Mangment system.csproj.CoreCompileInputs.cache
+D:\Users\METRA\source\repos\Hotel Mangment system\Hotel Mangment system\obj\Debug\Hotel Mangment system.exe
+D:\Users\METRA\source\repos\Hotel Mangment system\Hotel Mangment system\obj\Debug\Hotel Mangment system.pdb
+D:\Users\METRA\source\repos\Hotel Mangment system\Hotel Mangment system\obj\Debug\Hotel Mangment system.exe.config
